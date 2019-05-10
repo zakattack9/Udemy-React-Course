@@ -1,4 +1,4 @@
-# Udemy-React-Course
+# Udemy React Course Projects
 
 ### How to start project
 *Every folder is a seperate React project.*
