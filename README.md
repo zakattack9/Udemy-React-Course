@@ -10,20 +10,20 @@
 ### Project Takeaways
 
 #### JSX
-__Basic React component__
+Basic React component
 - using basic functional components
 - introduction to JSX syntax
 - special attribute names (*className*)
 - using style attribute in JSX
 
 #### Components
-__Simple example of nesting components__
+Simple example of nesting components
 - nesting components
 - using *props* to pass data from parent to child
 - importing and exporting components to work with each other
 
 #### Seasons
-__Determines if it is summer or winter based on user's location from Geolocation API__
+Determines if it is summer or winter based on user's location from Geolocation API
 - combining class-based and functional components
 - using `constructor` and `super()`
 - utilizing *state* to render updated content (`setState()`)
@@ -35,7 +35,7 @@ __Determines if it is summer or winter based on user's location from Geolocation
 - segmenting large dynamic code into parts
 
 #### Pics
-__Uses Unsplash API to display a grid of photos based on a search term__
+Uses Unsplash API to display a grid of photos based on a search term
 - rendering content from a server
 - handling user events and interaction (ex. `onChange`, `onClick`)
 - using arrow functions to control the scope of `this` (eliminates need to bind `this` to class)
@@ -50,5 +50,5 @@ __Uses Unsplash API to display a grid of photos based on a search term__
 - using Axios for ajax requests
 
 #### Videos
-__Uses YouTube API to display a list of videos and a video player based on search term__
+Uses YouTube API to display a list of videos and a video player based on search term
 - using a callback to communicate information from child to parent components
