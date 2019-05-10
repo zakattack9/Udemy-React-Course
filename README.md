@@ -40,7 +40,10 @@
 - referencing callback functions without invoking on every render
 - creating *refs* to reference DOM node of JSX element
 - passing data from child to parent through referencing functions
-- using React `key` property for lists of elements
-- controlled components for inputs 
+- using React `key` property for lists of elements to efficiently render
+- controlled components (ensures that we store data inside the component and not in DOM)
 - CSS grid
-- using axios for ajax requests
+- using Axios for ajax requests
+
+#### Videos
+- using a callback to communicate information from child to parent components
