@@ -1,6 +1,6 @@
 # Udemy React Course Projects
 
-### How to start project
+### How to run each project
 *Every folder is a seperate React project.*
 
 1. Navigate to the root folder of a React project (ex. "jsx")
