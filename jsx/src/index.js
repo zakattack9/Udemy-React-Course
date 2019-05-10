@@ -8,8 +8,6 @@ function getButtonText() {
 
 // create React component function
 const App = () => {
-  const buttonText = 'Click Me!';
-
   return (
     <div>
       <label className="label" htmlFor="name">Enter name:</label>
