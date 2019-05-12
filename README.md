@@ -52,3 +52,12 @@ Uses Unsplash API to display a grid of photos based on a search term
 #### Videos
 Uses YouTube API to display a list of videos and a video player based on search term
 - using a callback to communicate information from child to parent components
+
+#### Songs
+Select a song and have its title and duration displayed on the side
+- integrating redux with react
+- creating and using reducers
+- building action creators that return actions
+- calling `connect` function from react-redux library
+- combining reducers using `combineReducers` from redux to create a store for states
+- named vs default exports
